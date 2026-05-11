@@ -3,18 +3,18 @@
 
 This project is a SQL-based Student Management System developed in Google Colab using MYSQL. It manages:
 
-students
-courses
-enrollments
-marks
-attendance
+- students
+- courses
+- enrollments
+- marks
+- attendance
 
 # The project demonstrates SQL concepts such as:
 
-table creation
-Joins
-aggregations
-filtering
-grouping
-sorting
-views
+- table creation
+- Joins
+- aggregations
+- filtering
+- grouping
+- sorting
+- views
